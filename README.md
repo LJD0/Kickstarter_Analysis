@@ -13,17 +13,17 @@ Through my analysis, I aimed to provide valuable insights for individuals or org
 
 ### Theater Outcomes
 
-![parent_category_outcomes](https://raw.githubusercontent.com/LJD0/Kickstarter_Analysis/main/Resources/Parent_Category_Outcomes.png)
+<img alt='parent_category_outcomes' style='width: 80vw;' src='https://raw.githubusercontent.com/LJD0/Kickstarter_Analysis/main/Resources/Parent_Category_Outcomes.png'>
 
 Looking at the overall outcomes of the Theater campaigns is hopeful. The number of successful campaigns is almost double the number of failed campaigns, and the canceled campaigns are extremely low as well.
 
-![child_category_outcomes](https://raw.githubusercontent.com/LJD0/Kickstarter_Analysis/main/Resources/Child_Category_Outcomes.png)
+<img alt='child_category_outcomes' style='width: 80vw;' src='https://raw.githubusercontent.com/LJD0/Kickstarter_Analysis/main/Resources/Child_Category_Outcomes.png'>
 
 Even when looking at a more narrowed view, this conclusion remains consistent across both charts. The likelihood of success for theater based kickstarter camapigns is looking good.
 
 ### Analysis of Launch Date
 
-![outcomes_by_launch_date](https://raw.githubusercontent.com/LJD0/Kickstarter_Analysis/main/Resources/Outcomes_by_Launch_Date.png)
+<img alt='outcomes_by_launch_date' style='width: 80vw;' src='https://raw.githubusercontent.com/LJD0/Kickstarter_Analysis/main/Resources/Outcomes_by_Launch_Date.png'>
 
 The large spike in the of the year is
 
@@ -32,7 +32,7 @@ The number of failed campaigns stayed relatively consistent throughout the year,
 
 ### Analysis of Outcomes Based on Goals
 
-![outcomes_by_goal](https://raw.githubusercontent.com/LJD0/Kickstarter_Analysis/main/Resources/Theater_Outcomes_by_Goal.png)
+<img alt='outcomes_by_goal' style='width: 80vw;' src='https://raw.githubusercontent.com/LJD0/Kickstarter_Analysis/main/Resources/Theater_Outcomes_by_Goal.png'>
 
 As the goal amount increases the percentage of failed campaigns also increases, likewise the percentage of succesful campaigns decreases. One factor in this could be that there are roughly 900 campaigns below $10,000, and only near 20 in the $35,000 to $45,000 range.
 Uncharacteristically there is a change in the pattern between Theater Kickstarter Goals between $35,000 and $45,000; the percentage of succesful campaigns spikes. The campaigns could have been timed during the spike in successful campaigns we see in June, July, and August. While there is a high percentage of successful campaigns, there is a low number of total campaigns in that range.
